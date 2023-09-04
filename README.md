@@ -4,6 +4,10 @@
 
 提供基于Ubuntu 18.04（arm64）配好环境的HA懒人包镜像，适用于Linux Deploy。
 
+## 镜像获取
+
+从Releases中下载就行，顺便还给了我配环境用的Linux Deploy版本。
+
 ## 食用指南
 
 1. 安装好Linux Deploy
